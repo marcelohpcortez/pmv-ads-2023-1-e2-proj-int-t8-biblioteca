@@ -1,19 +1,20 @@
-# TÍTULO DO PROJETO
+# Blibioteca
 
-`CURSO`
+`Análise e Desenvolvimento de Sistema`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de uma Aplicação Interativa`
 
-`SEMESTRE`
+`Eixo 2`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Aplicação para gerenciamento de um Biblioteca
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Silvestre Castro
+* Marcelo Cortez
+* Lucas Salino
+* Ramon Resende
+* João Victor
 
 ## Orientador
 

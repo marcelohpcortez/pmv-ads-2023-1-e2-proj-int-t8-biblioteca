@@ -17,7 +17,7 @@ Aplicação para gerenciamento de um Biblioteca
 
 ## Orientador
 
-* Nome completo do professor 1
+* Daniela Carvalho Monteiro Ferreira
 
 ## Instruções de utilização
 

@@ -1,11 +1,10 @@
-# Blibioteca
+# BIblioteca
 
 Analise e Desenvolvimento de Sistema
-Desenvolvimento de uma aplicação interativa.
+
+Desenvolvimento de uma aplicação interativa
 
 Eixo 2
-
-Aplicação para gerenciamento de um Biblioteca
 
 ## Integrantes
 

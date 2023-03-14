@@ -1,6 +1,10 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Nem todo o conhecimento está disponível de forma gratuita ou digital. Ainda existem muitas obras físicas raras e caras que, para estudantes e profissionais de diversas áreas, podem apenas serem acessadas em bibliotecas de universidades ou instituições como a OAB, ABI etc.
+
+Um problema recorrente para os estudantes que precisam dessas obras é saber se existem nas bibliotecas das instituições e se estão disponíveis para consulta ou empréstimo.
+
+Diante disso, torna-se fundamental que existam plataformas que permitam a consulta e uma forma prática de reserva dos livros. Assim facilitando o aprendizado e desenvolvimento de conhecimento para diversos universitários e profissionais das mais diferentes áreas de conhecimento.
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.

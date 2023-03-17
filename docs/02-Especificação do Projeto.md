@@ -64,8 +64,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-01| O sistema deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge)  | ALTA | 
+|RNF-02| O sistema deve ser responsivo, permitindo que o usuário visualize de forma adequada em dispositivos móveis. |  MÉDIA | 
+|RNF-03| O sistema deve estar disponível 99% das 24 horas diárias. |  MÉDIA | 
+|RNF-04| O sistema deve estar alinhado com as normas de privacidade do cliente. |  ALTA | 
+|RNF-05| O sistema deverá informar ao usuário quando a mesma estiver em manutenção e/ou fora do ar. |  MÉDIA | 
+|RNF-06| O sistema deverá ter uma fácil usabilidade para o usuário. |  MÉDIA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
@@ -84,12 +88,13 @@ todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
+As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|RE-01| A solução deverá ser entregue ao fim do semestre letivo, não podendo extrapolar a data de 19/06/2023. |
+|RE-02| A equipe não poderá subcontratar o desenvolvimento do sistema.        |
+|RE-02| O sistema deverá ser  interativo.  |
 
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.

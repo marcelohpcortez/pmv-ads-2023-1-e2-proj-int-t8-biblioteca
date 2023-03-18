@@ -22,12 +22,7 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+O uso de software de gestão em bibliotecas é extremamente importante para garantir que os acervos estejam organizados e atualizados, e que as informações sejam facilmente acessíveis aos usuários. Ele também permite que os bibliotecários gerenciem facilmente a aquisição de novos livros, a renovação de empréstimos, a restituição de materiais e a implementação de programas de incentivo à leitura. Além disso, o software de gestão pode ajudar a promover a conscientização dos usuários sobre os recursos disponíveis na biblioteca, aumentando assim a frequência e a diversidade do público. Ao facilitar o acesso a informações, o software de gestão de bibliotecas ajuda a melhorar a qualidade dos serviços.
 
 ## Público-Alvo
 

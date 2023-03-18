@@ -28,12 +28,12 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Matheus Ferreira    | Fazer consultas rápidas            | Agilidade na busca de conteúdo         |
+|Maria das Graças    | Ter fácil acesso                   | Aplicação simples e intuitivo          |
+|Isadora Ferreira    | Verificar a disponibilidades       | Fazer pesquisa de obras literárias     |
+|Matheus Ferreira    | Facilidade de reservas             | Ter uma opção de reservas online       |
+|Maria das Graças    | Renovação de emprestimos           | Ter a opcao de fazer renovações online |
+|Isadora Ferreira    | contato com a biblioteca           | Canal com administrador da biblioteca  |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 

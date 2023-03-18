@@ -8,19 +8,11 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Maria das Graças . Idade: 42 . Ocupação Professora . Aplicativos: Facebook, Instagram, Netflix, Nubank . Frustrações: Dificuldade de encontrar livros didáticos para seus alunos . Hobbies, História: Hidroginástica, Forró, Ir ao cinema . Motivações: Em busca de maior conhecimento , para expressá-los para seus alunos.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+Matheus Ferreira . Idade: 27 . Ocupação: Estudante de Educação física . Aplicativos: Instagram, Linkedin, Netflix, Apostas Esportivas . Frustrações: Dificuldade para encontrar livros sobre hipertrofia . Hobbies, História: Churrasco, com os amigos, Academia, Bar com amigos . Motivações: Em busca de conhecimento para desenvolvimento próprio corporal e profissional.
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+Isadora Ferreira . Idade: 24 . Ocupação: Estudante de direito . Aplicativos: Instagram, STF, Itaú, Teams . Frustrações: Dificuldade para encontrar livros atualizados sobre leis e artigos , EX: valdemecum . Hobbies, História: Cinema, Viajar, Projetos sociais . Motivações: Conhecimento para sua graduação em Direito.
 
 ## Histórias de Usuários
 

@@ -9,8 +9,8 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem.
 
 
-|Nome: Maria das Graças             |Idade: 42 anos               |Ocupação: Professora          | 
-|-----------------------------------|-----------------------------|------------------------------|
+|Nome: Maria das Graças              Idade: 42 anos                Ocupação: Professora          | 
+|------------------------------------------------------------------------------------------------|
 |Motivações: Em busca de maior conhecimento para expressá-los para seus alunos                   |
 |Frustaçoes: Dificuldade de encontrar livros didaticos para seus alunos                          |
 |Aplicativos:Facebook, Instagram, Netflix e Nubank                                               |
@@ -18,8 +18,8 @@ As personas levantadas durante o processo de entendimento do problema são apres
 |------------------------------------------------------------------------------------------------|
 
 
-|Nome: Maria das Graças             |Idade: 42 anos               |Ocupação: Professora          | 
-|-----------------------------------|-----------------------------|------------------------------|
+|Nome: Maria das Graças              Idade: 42 anos                Ocupação: Professora          | 
+|------------------------------------------------------------------------------------------------|
 |Motivações: Em busca de maior conhecimento para expressá-los para seus alunos                   |
 |Frustaçoes: Dificuldade de encontrar livros didaticos para seus alunos                          |
 |Aplicativos:Facebook, Instagram, Netflix e Nubank                                               |

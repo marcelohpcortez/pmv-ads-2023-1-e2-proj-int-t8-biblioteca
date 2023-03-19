@@ -1,12 +1,12 @@
 # Biblioteca
 
-`Analise e Desenvolvimento Sistema`
+`Análise e Desenvolvimento Sistema`
 
 `Desenvolvimento de uma Aplicação Interativa`
 
 `Eixo 2`
 
-O objetivo geral do projeto é a criação de um sistema que permita o usuário possa fácil acesso a uma variedade de livros físicos a fim de que possa reservá-los para fins estudantis ou pessoais.
+O objetivo geral do projeto é a criação de um sistema que permita o usuário fácil acesso a uma variedade de livros físicos a fim de que possa reservá-los para fins estudantis ou pessoais.
 
 ## Integrantes
 

@@ -6,7 +6,7 @@
 
 `Eixo 2`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O objetivo geral do projeto é a criação de um sistema que permita o usuário possa fácil acesso a uma variedade de livros físicos a fim de que possa reservá-los para fins estudantis ou pessoais.
 
 ## Integrantes
 

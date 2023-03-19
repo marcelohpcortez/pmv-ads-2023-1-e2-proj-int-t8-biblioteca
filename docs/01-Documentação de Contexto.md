@@ -13,12 +13,14 @@ Conforme exposto, o problema que se busca resolver com este projeto é a dificul
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral do projeto é a criação de um sistema que permita o usuário ter fácil acesso a uma variedade de livros físicos a fim de que possa reservá-los para fins estudantis ou pessoais. 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Objetivos específicos :
+
+* Permitir que o usuário consulte os livros disponíveis na biblioteca.
+* Fornecer funcionalidades que permitam ao usuário reservar o livro desejado.
+* Permitir que o usuário faça extensão do prazo de reserva ou devolva antecipadamente. 
+
 
 ## Justificativa
 

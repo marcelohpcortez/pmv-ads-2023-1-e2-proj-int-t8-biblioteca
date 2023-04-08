@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home</title>
+
+	<meta charset="UTF-8">
+ 	 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  	<link rel="stylesheet" href="../css/cadastro.css">
+ 	 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+ 	 <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;600;700&display=swap" rel="stylesheet">
+  	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="../css/home.css">
+</head>
+<body>
+	<input type="checkbox" id="checkbox">
+	<header class="header">
+		<h2 class="u-name">Biblioteca <b>Virtual</b>
+			<label for="checkbox">
+				<i id="navbtn" class="fa fa-bars" aria-hidden="true"></i>
+			</label>
+		</h2>
+			<a href="../index.html">
+				<i class="fa fa-power-off" aria-hidden="true"></i>
+			</a>
+	</header>
+	<div class="body">
+		<nav class="side-bar">
+			
+			<ul>
+				<li>
+					<a href="Home.html">
+						<i class="fa fa-home" aria-hidden="true"></i>
+						<span>Home</span>
+					</a>
+				</li>
+				
+				<li>
+					<a href="Perfil.html">
+						<i class="fa fa-book" aria-hidden="true"></i>
+						<span>Perfil</span>
+					</a>
+				</li>
+				
+				<li>
+					<a href="Cadastro.html">
+						<i class="fa fa-archive" aria-hidden="true"></i>
+						<span>Cadastro livros</span>
+					</a>
+				</li>
+				
+			</ul>
+		</nav>
+		<section class="section-1">
+			<form id="register">
+				<label for="bookName">Insira o nome do livro:</label>
+				<input type="text" name="bookName" id="bookName">
+				<label for="bookAuthor">Insira o autor do livro:</label>
+				<input type="text" name="bookAuthor" id="bookAuthor">
+				<label for="bookPublisher">Insira a editora do livro:</label>
+				<input type="text" name="bookPublisher" id="bookPublisher">
+				<label for="numberOfPages">Insira a quantidade de páginas:</label>
+				<input type="number" name="numberOfPages" id="numberOfPages">
+				<label for="bookCover">Insira o link da capa:</label>
+				<input type="text" name="bookCover" id="bookCover">
+				<label for="synopsis">Insira a sinopse:</label>
+				<textarea name="synopsis" id="synopsis" cols="50" rows="2"></textarea>
+				<button id="btnRegister">Cadastre</button>
+			  </form>
+		  
+			  <div id="myModal" class="modal">
+				<div id="contentModel" class="modal-content">
+				  <span id="btnCloseModal">&times;</span>
+				  <h3 id="modalTitle"></h3>
+				  <p id="txtSynopsis"></p>
+				</div>
+			  </div>
+		  
+			  <div id="listOfBooksSearch">
+				<h3>Busque um livro</h3>
+				<label for="bookNameSearch">Digite o livro que deseja procurar:</label>
+				<input type="text" name="bookNameSearch" id="bookNameSearch">
+				<button id="btnSearch">Buscar</button>
+				<div id="foundBooks"></div>
+			  </div>
+		  
+			  <div id="AllBooks">
+				<h3 id="titleAllBooks">Todos os Livros</h3>
+				<div id="listOfAllBooks">
+				  <p  id="emptyBookList">Nenhum livro cadastrado</p>
+				</div>
+			  </div>
+		</section>
+	</div>
+
+	<section>
+		
+	  </section>
+	
+	  <script src="../js/cadlivro.js"></script>
+</body>
+</html>
+
+

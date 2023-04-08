@@ -8,7 +8,7 @@ Tela que permite o usuário realizar o login ou o registro na aplicação.
 ![image](https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t8-biblioteca/Dev_Marcelo_08_04/docs/img/Tela_login.PNG)
 
 <b>**Requisitos atendidos**</b>
-- RF-01 -O sistema deve conter uma tela inicial de login para poder acessar com usuário e senha, também conta botão de cadastro de usuário e recuperação de senha 
+- RF-01 -O sistema deve conter uma tela inicial de login para poder acessar com usuário e senha, também conta botão de cadastro de usuário.
 
 <b>**Artefatos da funcionalidade**</b>
 

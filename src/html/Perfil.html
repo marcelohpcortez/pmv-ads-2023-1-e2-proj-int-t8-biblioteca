@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Home</title>
+	<title>Perfil</title>
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="../css/home.css">
+	<link rel="stylesheet" href="../css/cadastro.css">
 </head>
 <body>
 	<input type="checkbox" id="checkbox">
@@ -45,10 +46,35 @@
 			</ul>
 		</nav>
 		<section class="section-1">
-			<h1>Perfil</h1>
+			<h2>Cadastro Perfil Usuário</h2>
+			<form id="register">
+				<label for="UserName">Codigo Usuário</label>
+				<input type="text" name="UserName" id="UserName">
+				<label for="UserName">Perfil de Usuario</label>
+				<input type="text" name="UserName" id="UserName">
+				<label for="bookAuthor">Instituição de acesso</label>
+				<input type="text" name="bookAuthor" id="bookAuthor">
+				<button id="btnRegister">Atualizar</button>
+			  </form>
+
+			  <div id="myModal" class="modal">
+				<div id="contentModel" class="modal-content">
+				  <span id="btnCloseModal">&times;</span>
+				  <h3 id="modalTitle"></h3>
+				  <p id="txtSynopsis"></p>
+				</div>
+			  </div>
+
+			  <div id="AllBooks">
+				<h3 id="titleAllBooks">Usuários</h3>
+				<div id="listOfAllBooks">
+				  <p  id="emptyUserList">Nenhum usuário cadastrado</p>
+				</div>
+			  </div>
 		</section>
 	</div>
 
+	<script src="../js/cadperfil.js"></script>
 </body>
 </html>
 

@@ -109,6 +109,8 @@ A tela que permite ao usuário um canal de comunicação com o sindico por meio 
 
 ![image](https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t8-biblioteca/Dev_Marcelo_08_04/docs/img/Tela_cadastro_livros.PNG)
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t8-biblioteca/blob/Dev_Marcelo_08_04/docs/img/Tela_cadastro_livros1.PNG)
+
 <b> Requisitos Atendidos </b>
 
 - RF 07: O sistema deve permitir que usuários do tipo bibliotecário cadastrem novos livros.
@@ -119,6 +121,6 @@ A tela que permite ao usuário um canal de comunicação com o sindico por meio 
 
 <b> Estrutura de dados </b>
 
-![image](https://user-images.githubusercontent.com/105026101/200194568-baa4d49b-3106-46d6-94e8-48ca10539810.png)
-![image](https://user-images.githubusercontent.com/105026101/200194570-39503ced-a566-4617-9ebf-22737df907f3.png)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t8-biblioteca/blob/Dev_Marcelo_08_04/docs/img/Prints%20cod/6-html_css_Livro.PNG)
+
 

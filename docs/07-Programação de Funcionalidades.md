@@ -17,7 +17,7 @@ Tela que permite o usuário realizar o login ou o registro na aplicação.
 - scriptcadastro.js
 
 <b> Estrutura de Dados </b> 
-![image](https://user-images.githubusercontent.com/8716603/198914101-5ecff467-b63e-493b-aef1-d1ced4e42ec6.png)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t8-biblioteca/blob/Dev_Marcelo_08_04/docs/img/Prints%20cod/1-html_css_java_signin.PNG)
 
 <h3> Tela de Cadastro </h3>
 
@@ -34,7 +34,7 @@ Tela que permite ao usuário realizar o registro na aplicação, o usuário deve
 - scriptcadastro.js
 
 <b> Estrutura de Dados </b> 
-![image](https://user-images.githubusercontent.com/8716603/198914193-9196dd73-c1e1-4c29-85df-d1b5517dd071.png)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t8-biblioteca/blob/Dev_Marcelo_08_04/docs/img/Prints%20cod/2-html_css_java_cadastro_usuario.PNG)
 
 <h3> Tela de Home </h3>
 
@@ -43,14 +43,14 @@ Tela que permite o usuário navegar pelos menus das paginas. Tela que permite o 
 ![image](https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t8-biblioteca/Dev_Marcelo_08_04/docs/img/Tela_home.PNG)
 
 <b>**Requisitos atendidos**</b>
-
 - RF-03 - O sistema deve conter uma tela de Home onde o usuário tem a opção de navegação do sistema e informativos do condomínio na tela inicial.
 
 <b>**Artefatos da funcionalidade**</b>
 - Tela Home.html
 - style-grid.css
 
-![image](https://user-images.githubusercontent.com/8716603/198914315-c21b1872-8e66-4062-99d8-80c33eea7c45.png)
+<b> Estrutura de Dados </b> 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t8-biblioteca/blob/Dev_Marcelo_08_04/docs/img/Prints%20cod/3-html_css_home.PNG)
 
 <h3> Tela de Perfil </h3>
 
@@ -67,7 +67,7 @@ Tela que permite ao condômino ter acesso aos boletos, podendo realizar o pagame
 - scriptcadastro.js
 
 <b> Estrutura de Dados </b> 
-![image](https://user-images.githubusercontent.com/8716603/198914193-9196dd73-c1e1-4c29-85df-d1b5517dd071.png)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t8-biblioteca/blob/Dev_Marcelo_08_04/docs/img/Prints%20cod/4-html_css_Perfil.PNG)
 
 
 <h3> Tela de Livros </h3>
@@ -87,6 +87,9 @@ A tela que permite ao usuário registrar uma reclamação relacionada ao condom�
 - style.css
 - apartament_logo.svg
 - icon-menu.png
+
+<b> Estrutura de Dados </b> 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t8-biblioteca/blob/Dev_Marcelo_08_04/docs/img/Prints%20cod/5-html_css_Livro.PNG)
 
 <h3> Tela Cadastro Livros </h3>
 
